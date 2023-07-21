@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Jobsico<br>🌱 I’m currently learning Jetpack Compose, Node.js<br>💬 Ask me about Android, Kotlin
+🔭 I’m currently working on Convene<br>🌱 I’m currently learning Jetpack Compose, Node.js<br>💬 Ask me about Android, Kotlin
 
 
 ## 🌐 Socials:
